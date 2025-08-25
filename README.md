@@ -3,6 +3,13 @@
 
 An innovative **Figma-based design prototype** for an **AR-powered shopping assistant**, combining cutting-edge technologies to transform the shopping experience into something more immersive, personalized, and secure. 
 
+<p align="center">
+  <img src="https://github.com/Ilmaa2003/AR-and-Emerging-Technology-Powered-Shopping-App-Prototype/blob/main/Project%20-%20AR%20Shopping%20App/Images/01.png" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Ilmaa2003/AR-and-Emerging-Technology-Powered-Shopping-App-Prototype/blob/main/Project%20-%20AR%20Shopping%20App/Images/02.png" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Ilmaa2003/AR-and-Emerging-Technology-Powered-Shopping-App-Prototype/blob/main/Project%20-%20AR%20Shopping%20App/Images/03.png" width="250" />
+</p>
 
 ---
 
